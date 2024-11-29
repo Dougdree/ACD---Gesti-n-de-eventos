@@ -9,8 +9,6 @@ En este ejercicio, deberán diseñar y desarrollar un Sistema de Gestión de Eve
 ![gestionEventos](https://github.com/user-attachments/assets/671d4970-dd97-4090-ab37-b9faf00cc108)
 
 
-
-
 # Clases usadas
 - **[1. Agenda](https://github.com/Dougdree/ACD---Gestion-de-eventos/blob/develop/Gestion%20de%20Eventos/src/Agenda.java)**
 - **[2. Contrato](https://github.com/Dougdree/ACD---Gestion-de-eventos/blob/develop/Gestion%20de%20Eventos/src/Contrato.java)**
