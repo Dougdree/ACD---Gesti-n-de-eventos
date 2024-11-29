@@ -17,13 +17,15 @@ En este ejercicio, deberán diseñar y desarrollar un Sistema de Gestión de Eve
 - **[3. Estado](https://github.com/Dougdree/ACD---Gestion-de-eventos/blob/develop/Gestion%20de%20Eventos/src/Estado.java)**
 - **[4. Evento](https://github.com/Dougdree/ACD---Gestion-de-eventos/blob/develop/Gestion%20de%20Eventos/src/Evento.java)**
 - **[5. Invitacion](https://github.com/Dougdree/ACD---Gestion-de-eventos/blob/develop/Gestion%20de%20Eventos/src/Invitacion.java)**
-- **[6. MaterialAudiovisual]()**
-- **[7. Organizador]()**
-- **[8. Participante]()**
-- **[9. Persona]()**
-- **[10. Registro]()**
-- **[11. Rol]()**
-- **[12. Sala]()**
+- **[6. [MaterialAudiovisual](https://github.com/Dougdree/ACD---Gestion-de-eventos/blob/develop/Gestion%20de%20Eventos/src/MaterialAudiovisual.java)]()**
+- **[7. [Organizador](https://github.com/Dougdree/ACD---Gestion-de-eventos/blob/develop/Gestion%20de%20Eventos/src/Organizador.java)]()**
+- **[8. Participante](https://github.com/Dougdree/ACD---Gestion-de-eventos/blob/develop/Gestion%20de%20Eventos/src/Participante.java)]()**
+- **[9. [Persona](https://github.com/Dougdree/ACD---Gestion-de-eventos/blob/develop/Gestion%20de%20Eventos/src/Persona.java)]()**
+- **[10. [Registro](https://github.com/Dougdree/ACD---Gestion-de-eventos/blob/develop/Gestion%20de%20Eventos/src/Registro.java)]()**
+- **[11. [Rol](https://github.com/Dougdree/ACD---Gestion-de-eventos/blob/develop/Gestion%20de%20Eventos/src/Rol.java)]()**
+- **[12. [Sala](https://github.com/Dougdree/ACD---Gestion-de-eventos/blob/develop/Gestion%20de%20Eventos/src/Sala.java)]()**
+- **[13. [Main](https://github.com/Dougdree/ACD---Gestion-de-eventos/blob/develop/Gestion%20de%20Eventos/src/Main.java)]()**
+
 
 
 
