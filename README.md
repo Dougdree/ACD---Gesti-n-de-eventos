@@ -6,7 +6,9 @@ En este ejercicio, deberán diseñar y desarrollar un Sistema de Gestión de Eve
 - Douglas Carreño
 
 # Diagrama de clases
-![image](https://github.com/user-attachments/assets/3e60489c-d291-405b-ab84-39ec0cde0231)
+![gestionEventos](https://github.com/user-attachments/assets/671d4970-dd97-4090-ab37-b9faf00cc108)
+
+
 
 
 # Clases usadas
