@@ -21,6 +21,18 @@ public class Main {
         registro.registrarParticipante(); // Registrar un participante
         System.out.println("Registro creado con ID: " + registro.getIdentificador() + " y fecha: " + registro.getFechaRegistro());
 
+        // Crear una invitación con un destinatario, fecha y estado inicial
+        Invitacion invitacion = new Invitacion("Juan Pérez", "2024-12-01", Estado.PENDIENTE);
+
+        // Mostrar el estado inicial de la invitación
+        invitacion.mostrarEstado();
+
+        // Aceptar la invitación
+        invitacion.aceptarInvitacion();
+
+        // Mostrar el estado actualizado de la invitación
+        invitacion.mostrarEstado();
+
         // Crear una agenda para gestionar eventos
         // La clase Agenda permite almacenar y visualizar eventos
         Agenda agenda = new Agenda();
@@ -38,3 +50,4 @@ public class Main {
         System.out.println("El sistema ha finalizado correctamente. Gracias por usarlo.");
     }
 }
+
